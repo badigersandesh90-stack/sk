@@ -1,0 +1,6 @@
+{
+  "name": "SK COMPUTERS",
+  "description": "Modern computer and laptop sales, refurbished systems, repairs, accessories, and AI PC diagnostic advisor for SK COMPUTERS.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
